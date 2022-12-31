@@ -1,0 +1,17 @@
+nasa-banner: https://marshallbennett.co/nasa-articles
+button image: https://uk.tempur.com/blog/tempur-nasa.html
+9 Canadians have ever been in space: https://www.asc-csa.gc.ca/eng/multimedia/search/image/watch/3144
+star background image: https://pixabay.com/illustrations/stars-night-sky-falling-stars-5673510/
+moon animation GIF: https://www.pinterest.ca/pin/mbe-earth--516928863460690190/
+solar system ul icon: https://www.iconfont.cn/search/index?searchType=icon&q=solar
+
+Mercury image of solar system page: https://www.space.com/36-mercury-the-suns-closest-planetary-neighbor.html
+Venus image of solar system page: https://www.space.com/44-venus-second-planet-from-the-sun-brightest-planet-in-solar-system.html
+Earth image of solar system page: https://www.britannica.com/story/how-old-is-earth
+Mars image of solar system page: https://starwalk.space/en/news/mars-the-ultimate-guide
+Jupiter image of solar system page: https://www.britannica.com/list/5-mysteries-of-jupiter-that-juno-might-solve
+Saturn image of solar system page: https://a-z-animals.com/blog/how-far-away-is-saturn-from-earth-the-sun-and-other-planets/
+Uranus image of solar system page: https://bgr.com/science/china-is-planning-to-probe-uranus-in-a-unique-new-way/
+Neptune image of solar system page: https://nypost.com/2021/11/29/a-guide-to-your-neptune-sign-and-what-it-means-in-astrology
+
+
